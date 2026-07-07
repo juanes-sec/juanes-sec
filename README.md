@@ -3,8 +3,6 @@
   <img src="juanes-sec.png" alt="Banner">
 </p>
 
-
-Here are some ideas to get you started:
 ## Sobre mi
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
