@@ -1,4 +1,4 @@
-                          ## Hi I am Juan Esteban 👋
+  ## Hi I am Juan Esteban 👋
 <p align="center">
   <img src="juanes-sec.png" alt="Banner">
 </p>
