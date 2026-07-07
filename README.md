@@ -3,7 +3,7 @@
   <img src="juanes-sec.png" alt="Banner">
 </p>
 
-## Sobre mi
+## About me
 - 🌐 I like cibersecurity and IT
 - 📖 I’m currently learning 
 
