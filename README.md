@@ -1,5 +1,7 @@
 ## Hi I am Juan Esteban 👋
-
+<p align="center">
+  <img src="juanes-sec.png" alt="Banner">
+</p>
 <!--
 **juanes-sec/juanes-sec** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
